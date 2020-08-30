@@ -1,1 +1,3 @@
 # firebase-sandbox
+
+First of all I gonna learn how to host on firebase...
